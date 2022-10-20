@@ -24,3 +24,5 @@ while (harryPotterMovies != 8){
     console.log(harryPotterMovies);
 }
 
+console.log(harryPotterMovies);
+
